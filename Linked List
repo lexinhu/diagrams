@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T16:35:32.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.58" version="13.6.2" etag="cZ7GWbalVNJLV5g2PQ-S" type="github"><diagram id="iX0EUU4UfmbFwB5hA1-W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-13T17:41:45.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.58" etag="jXci-39Xj8U6Vjgdm7Tj" version="13.6.2" type="github">
+  <diagram id="iX0EUU4UfmbFwB5hA1-W" name="第 1 页">
+    <mxGraphModel dx="898" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px&quot; color=&quot;#6666ff&quot;&gt;head&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#cc99ff&quot;&gt;no:0&lt;br&gt;name:&quot;&quot;&lt;br&gt;nickname:&quot;&quot;&lt;br&gt;next:null&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-8" value="一个头部，不可移动，长期保留最前作为一个指针" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-10" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arrowWidth=0.230303955078125;arrowSize=0.2119121683054957;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-11" value="把一切操作交给temp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 48px&quot; color=&quot;#6666ff&quot;&gt;temp&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 24px&quot; color=&quot;#cc99ff&quot;&gt;no:0&lt;br&gt;name:&quot;&quot;&lt;br&gt;nickname:&quot;&quot;&lt;br&gt;next:null&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="100" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-13" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#C7DEFC;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="695" y="350" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-15" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=1;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="585.66" y="480" width="268.67" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-16" value="class" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="748.66" y="630" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-20" value="temp开始了各种身份的游走，只要有新的指针进来，他就去等于人家。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-21" value="class" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="643.66" y="550" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-22" value="class" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="643.66" y="630" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-23" value="class" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="748.66" y="550" width="52" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-24" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=18;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6uoRIRAe3jTwv3QBoexP-25" value="在添加数据时，temp为每个HexoNode安排了一个next，形成链表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#C7DEFC;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="320" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
