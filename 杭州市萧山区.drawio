@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-18T07:14:59.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ogh4b_owVz5i_zKpjWfd" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-18T07:16:56.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="PBclfOqE0LmPx4t9KlMS" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1702" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-1" value="&lt;div&gt;卫星遥感数据的获取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="160" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="170" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-4" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;提出问题：萧山区土&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;地利用及驱动力分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="80" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="100" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-5" target="D9lZeBVPD3_RQaK8QXdw-8">
           <mxGeometry relative="1" as="geometry" />
@@ -41,26 +41,26 @@
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-6" value="辐射定标" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9lZeBVPD3_RQaK8QXdw-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D9lZeBVPD3_RQaK8QXdw-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D9lZeBVPD3_RQaK8QXdw-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D9lZeBVPD3_RQaK8QXdw-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9lZeBVPD3_RQaK8QXdw-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D9lZeBVPD3_RQaK8QXdw-57" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-7" target="D9lZeBVPD3_RQaK8QXdw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-7" value="&lt;div&gt;进行遥感影像监督分&lt;span style=&quot;background-color: initial;&quot;&gt;类&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="400" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="385" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-8" target="D9lZeBVPD3_RQaK8QXdw-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-8" value="&lt;div&gt;构建土地利用分类系&lt;span style=&quot;background-color: initial;&quot;&gt;统&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="320" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="310" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-9" value="&lt;div&gt;大气校正&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="245" width="100" height="40" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-17" value="&lt;div&gt;验证遥感影像解译精&lt;span style=&quot;background-color: initial;&quot;&gt;度&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="480" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="460" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-18" target="D9lZeBVPD3_RQaK8QXdw-26">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-18" value="&lt;div&gt;土地利用覆被变化分&lt;span style=&quot;background-color: initial;&quot;&gt;析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="560" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="535" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#dae8fc;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="D9lZeBVPD3_RQaK8QXdw-19" target="D9lZeBVPD3_RQaK8QXdw-35">
           <mxGeometry relative="1" as="geometry" />
@@ -111,46 +111,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-19" value="&lt;div&gt;土地利用覆被变化驱&lt;span style=&quot;background-color: initial;&quot;&gt;动力分析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="640" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="610" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-20" value="结论与展望" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=1;strokeWidth=1;shadow=1;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="720" width="160" height="50" as="geometry" />
+          <mxGeometry x="160" y="685" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-22" value="&lt;div&gt;土地垦殖率分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-71.25" y="695" width="172.5" height="40" as="geometry" />
+          <mxGeometry x="-71.25" y="680" width="172.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-23" value="&lt;div&gt;土地利用率分析&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-67.5" y="635" width="170" height="40" as="geometry" />
+          <mxGeometry x="-67.5" y="620" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-24" value="&lt;div&gt;土地利用程度变化分&lt;span style=&quot;background-color: initial;&quot;&gt;析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-67.5" y="575" width="170" height="40" as="geometry" />
+          <mxGeometry x="-67.5" y="560" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-25" value="&lt;div&gt;土地利用结构的时间&lt;span style=&quot;background-color: initial;&quot;&gt;变化分析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-67.5" y="505" width="170" height="50" as="geometry" />
+          <mxGeometry x="-67.5" y="490" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-26" value="&lt;div&gt;土地利用类型的数量&lt;span style=&quot;background-color: initial;&quot;&gt;变化分析&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-67.5" y="435" width="165" height="50" as="geometry" />
+          <mxGeometry x="-67.5" y="420" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-33" value="经济水平" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="660" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="635" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-34" value="城市化水平" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="585" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-35" value="人口数量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="560" width="100" height="35" as="geometry" />
+          <mxGeometry x="380" y="535" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-36" value="产业结构调整" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="710" width="100" height="40" as="geometry" />
+          <mxGeometry x="380" y="685" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-42" value="2013年萧山区土地利用分类图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="340" width="200" height="40" as="geometry" />
+          <mxGeometry x="360" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-43" value="2018年萧山区土地利用分类图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="400" width="200" height="40" as="geometry" />
+          <mxGeometry x="360" y="380" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9lZeBVPD3_RQaK8QXdw-44" value="2022年萧山区土地利用分类图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;strokeColor=#8FB4FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="460" width="200" height="40" as="geometry" />
+          <mxGeometry x="360" y="440" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
