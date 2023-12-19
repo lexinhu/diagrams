@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:41:21.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Uj1PpLHTAQjI1u5lBLke" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:44:16.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vS1Z7xQPkk5EhrFiLSP8" version="22.1.11" type="github">
   <diagram name="第 1 页" id="ebwwwqCovfvmJ2Ybvq9N">
     <mxGraphModel dx="724" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dwnA3CglnpUfl5cF9png-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-2" target="dwnA3CglnpUfl5cF9png-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;界面原型图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-3" target="dwnA3CglnpUfl5cF9png-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;数据整理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-4" target="dwnA3CglnpUfl5cF9png-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-4" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;UI设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-5" target="dwnA3CglnpUfl5cF9png-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="360" />
+              <mxPoint x="245" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;风格布局&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-6" target="dwnA3CglnpUfl5cF9png-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;数据结构设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-7" target="dwnA3CglnpUfl5cF9png-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;数据库搭建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-8" target="dwnA3CglnpUfl5cF9png-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-8" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;功能开发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-9" target="dwnA3CglnpUfl5cF9png-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="360" />
+              <mxPoint x="245" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;代码优化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-10" target="dwnA3CglnpUfl5cF9png-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;前后端对接&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-11" target="dwnA3CglnpUfl5cF9png-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;在线方言地图应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;部署运行测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-14" target="dwnA3CglnpUfl5cF9png-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="140" />
+              <mxPoint x="115" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-14" target="dwnA3CglnpUfl5cF9png-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwnA3CglnpUfl5cF9png-14" target="dwnA3CglnpUfl5cF9png-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="140" />
+              <mxPoint x="375" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwnA3CglnpUfl5cF9png-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;应用需求分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
