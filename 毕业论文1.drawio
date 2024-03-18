@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T17:48:37.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ikT2vtb2l9Rj9kGk9RBt" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-18T17:53:22.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="eSRoPDOBBnu-q2MaK34x" version="24.0.7" type="github" pages="7">
   <diagram name="第 1 页" id="ebwwwqCovfvmJ2Ybvq9N">
     <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -472,8 +472,8 @@
         <mxCell id="g_wRuADiyOGFXiAVVk99-16" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;应用层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-17" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数据库交互&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;逻辑处理&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="145" width="110" height="40" as="geometry" />
+        <mxCell id="g_wRuADiyOGFXiAVVk99-17" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数据库交互&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;请求逻辑处理&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="145" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g_wRuADiyOGFXiAVVk99-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g_wRuADiyOGFXiAVVk99-12">
           <mxGeometry relative="1" as="geometry">
@@ -483,8 +483,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-21" value="返回所需数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="g_wRuADiyOGFXiAVVk99-21" value="返回展示的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g_wRuADiyOGFXiAVVk99-22" value="处理收集的数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="130" height="30" as="geometry" />
@@ -498,17 +498,14 @@
         <mxCell id="g_wRuADiyOGFXiAVVk99-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="827" y="130" width="225" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Node.js&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="879.5" y="230" width="120" height="50" as="geometry" />
+        <mxCell id="g_wRuADiyOGFXiAVVk99-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MySQL&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="879.5" y="235" width="120.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Express.js&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="879.5" y="310" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-26" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;应用层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="g_wRuADiyOGFXiAVVk99-26" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;数据层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="839.5" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g_wRuADiyOGFXiAVVk99-27" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数据库交互&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;逻辑处理&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="949.5" y="145" width="110" height="40" as="geometry" />
+        <mxCell id="g_wRuADiyOGFXiAVVk99-27" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;数据存储&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="949.5" y="150" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g_wRuADiyOGFXiAVVk99-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g_wRuADiyOGFXiAVVk99-12" target="g_wRuADiyOGFXiAVVk99-23">
           <mxGeometry relative="1" as="geometry">
@@ -517,6 +514,15 @@
               <mxPoint x="770" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g_wRuADiyOGFXiAVVk99-33" value="返回基础数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_wRuADiyOGFXiAVVk99-34" value="增删改查" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_wRuADiyOGFXiAVVk99-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SQL指令&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="879.25" y="300" width="120.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
